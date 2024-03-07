@@ -1,0 +1,26 @@
+.objects {
+    color:rgb(201, 201, 30);
+    font-weight: bold;
+}
+
+ body {
+    background-color: rgba(192, 192, 13, 0.521);
+ }
+
+ .btn-warning {
+    font-size: 3rem;
+    width: 100%;
+ }
+
+ #whitetext {
+    color: white;
+ }
+
+ #camera {
+    border: 1px dashed rgba(255, 0, 0, 0.76);
+    width: 400px;
+    height: 400px;
+    box-shadow: 2px 2px 48px red;
+ }
+
+
